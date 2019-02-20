@@ -1,13 +1,44 @@
-<!DOCTYPE html>
-<html lang="en-us">
+html{
+    position: relative;
+    min-height: 100%;
+}
 
-<head>
-  
-</head>
+body {
+    
+    margin-bottom: 60px;
+    background-color: lightgray;
+  }
 
-<body>
- 
+.panel-body{
+    background-color:white;
+    
+    
+}
 
-</body>
+h2{
+    color: teal;
+}
 
-</html>
+h3{
+    color: teal;
+    text-align: center;
+}
+
+        
+        
+
+footer{
+    background-color: lightgray;
+    text-align: center;
+    padding: 15px;
+    height: 60px;
+    width: 100%;
+    border-top: 10px;
+    border-top-color: teal;
+    border-width: 10px;
+    border-top-style: solid;
+    position: absolute;
+    bottom: 0;
+}
+
+    
